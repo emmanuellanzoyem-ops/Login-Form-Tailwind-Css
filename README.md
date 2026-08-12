@@ -21,5 +21,3 @@ https://loginformtai.netlify.app/
 - Forgot password link
 - Sign in button
 - Sign up link
-
-Pretty simple but it looks clean and works well!
